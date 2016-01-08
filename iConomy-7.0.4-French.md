@@ -1,4 +1,4 @@
-# iConomy 7.0.4 - English Guide
+# iConomy 7.0.4 - French Guide
 **Les informations sur les commandes peut être un peu différent dans le plugin**<br><br>
 **Français**<br>
 Commandes:<br>
